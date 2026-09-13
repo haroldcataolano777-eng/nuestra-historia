@@ -1,0 +1,7 @@
+PROYECTO: Nuestra Historia
+1) Crea en Android Studio un proyecto nuevo: Empty Activity (Compose),
+   nombre NuestraHistoria, package com.nuestra.historia, minSdk 24.
+2) Copia/reemplaza estos archivos sobre los del proyecto.
+3) Agrega tus fotos: app/src/main/res/drawable/foto1.jpg ... foto8.jpg
+4) (Opcional) Agrega tu MP3: app/src/main/res/raw/cancion.mp3
+5) Sync Gradle y Run.
